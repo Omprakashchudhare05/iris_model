@@ -1,7 +1,4 @@
 streamlit
 pandas
 joblib
-sklearn.model_selection
-sklearn.linear_model
-sklearn.metrics
 numpy
